@@ -1,0 +1,11 @@
+Thank you for your response and for bringing up the risks associated with using pre-trained models. I appreciate your concern and would like to clarify that I have not downloaded any pre-trained models for my current project.
+
+My requirement is simply to split words and check them against an array of words to find a match. To achieve this, I was exploring the use of NLTK's word_tokenize method with my test data.
+
+I fully understand the importance of adhering to governance rules and not breaching any company policies. With that in mind, could you please advise me on which repository I can refer to in order to check the list of accepted Python packages for use at Barclays?
+
+Furthermore, I would like to confirm if the packages provided in this link (insert link here) are considered safe for use within the company.
+
+Unfortunately, I am currently experiencing issues with my NLTK login. Could you please advise me on how to proceed?
+
+Thank you for your time and assistance.
